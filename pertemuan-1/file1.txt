@@ -1,2 +1,0 @@
-Ini adalah file pertama.
-Perubahan pada branch1.
